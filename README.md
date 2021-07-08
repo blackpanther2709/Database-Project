@@ -2,7 +2,7 @@
 Blood Bank Database using Tkinter and MySQL
 
 The main objective of this project is to bridge the gap between Hospitals and Blood Banks.
-A stand-alone database used to access information about:
+A stand-alone database application used to access information about:
 Hospitals
 Blood Banks
 Active Donors

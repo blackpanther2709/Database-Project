@@ -6,3 +6,6 @@ A stand-alone database application used to access information about: Hospitals, 
 
 SCOPE OF IMPROVEMENT
 This project can be improved by making it a live site where information is updated in real time and hence it can be accessed easily. Quicker access to information will help save many lives.
+
+SS of the Project
+![Screenshot](Screenshot from 2021-07-09 18-30-38.png)
